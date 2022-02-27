@@ -8,7 +8,7 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(../assets/principal.jfif);
+    background-image: url(./principal.jfif);
     background-size: cover;
     background-position: center;
 }
